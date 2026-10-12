@@ -122,7 +122,3 @@ The UI is a function of program state, so no separate widget tree is kept.
 | `Cannot open include file: 'imgui.h'` | Make sure the `imgui` folder is in the project directory and `$(ProjectDir)imgui` is in the include path. |
 | `unresolved external symbol` | Check the `#pragma comment(lib, ...)` path to `glfw3.lib`, and confirm the platform is x64. |
 | Window does not appear | Make sure the build is **x64** and the GLFW library matches your platform. |
-
-## License
-
-This project is for academic use. Dear ImGui and GLFW are licensed under their own terms (MIT). See their repositories for details.
