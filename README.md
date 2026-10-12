@@ -33,7 +33,6 @@ A minimal desktop-style OS shell built with **Dear ImGui**, **GLFW**, and **Open
 CSOPESY-Desktop-OS/
 
 ├── main.cpp # Application entry point, UI logic, and main loop
-
 └── imgui/ # Dear ImGui core and backend files
 
 ## Prerequisites
