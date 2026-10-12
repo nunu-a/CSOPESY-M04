@@ -1,6 +1,6 @@
 # CSOPESY Desktop OS Emulator
 
-A minimal desktop-style OS shell built with **Dear ImGui**, **GLFW**, and **OpenGL 3**. It simulates a convincing desktop environment with a wallpaper, a real-time clock, a taskbar, placeholder apps, and a Task Manager. It is a visual mockup, not a functional operating system.
+A minimal desktop-style OS shell built with **Dear ImGui**, **GLFW**, and **OpenGL 3**. It simulates a convincing desktop environment with a wallpaper, a real-time clock, a taskbar, placeholder apps, and a Task Manager. It is not a functional operating system.
 
 **Author:** Azzam Alonto
 **Group:** 3
